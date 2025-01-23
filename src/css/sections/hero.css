@@ -1,0 +1,19 @@
+.hero-section {
+    padding: 60px 20px 91px;
+}
+
+.hero-title {
+    font-size: 28px;
+    color: var(--text-color)
+}
+
+.hero-text {
+    margin-top: 28px;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: var(--text-color)
+}
+
+.hero-btn {
+    margin-top: 32px;
+}
