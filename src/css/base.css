@@ -1,0 +1,26 @@
+:root {
+    --text-color: #2c2c2c;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+}
+
+.container {
+    max-width: 320px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.btn {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 1.5;
+    text-align: right;
+    color: #2c2c2c;
+    border: none;
+    border-radius: 30px;
+    padding: 6px 17px;
+    background: #bbf330;
+}
