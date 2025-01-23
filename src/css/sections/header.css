@@ -1,0 +1,18 @@
+.header {
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 24px 0 rgba(105, 105, 105, 0.1);
+    background: #fefefe;
+}
+
+.header-logo {
+    width: 52px;
+    height: 66px;
+}
+
+.header-mob-btn {
+    fill: #7eb101;
+    ;
+}
