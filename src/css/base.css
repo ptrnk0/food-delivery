@@ -7,6 +7,18 @@ body {
     font-weight: 400;
 }
 
+h1,
+h2 {
+    font-size: 28px;
+    color: var(--text-color)
+}
+
+p {
+    font-size: 14px;
+    line-height: 1.43;
+    color: var(--text-color);
+}
+
 .container {
     max-width: 320px;
     padding: 0 20px;
